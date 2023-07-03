@@ -1,2 +1,2 @@
-# apple-maps-guides-parser
+# applemapsr
 Parse and extract metadata from Apple Maps Guides
