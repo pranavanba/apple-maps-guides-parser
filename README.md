@@ -1,2 +1,2 @@
 # applemapsr
-Parse and extract metadata from Apple Maps Guides
+Scrape, extract, and parse metadata from Apple Maps Guides
